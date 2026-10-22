@@ -1,0 +1,13 @@
+[project]
+name = "LM"
+version = "0.0.5"
+authors = [{ name = "OnlyLeafeon" }]
+description = "An archipelago.gg implementaion for Borderlands 3"
+
+[project.urls]
+Source = ""
+
+[tool.sdkmod]
+name = "Leafys Mayhem"
+license = {}
+download = ""
