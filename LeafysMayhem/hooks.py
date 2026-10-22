@@ -8,7 +8,7 @@ from unrealsdk.unreal import BoundFunction, UObject, WrappedStruct
 from mods_base import ENGINE, command, get_pc, hook
 
 from .locks import ensure_default_weapon_locks
-from .utils import log, send_location_check
+from .LeafysMayhem.utils import log, send_location_check
 
 
 def _read_mission_list():

@@ -9,7 +9,7 @@ from unrealsdk.unreal import BoundFunction, UObject, WrappedStruct
 
 from mods_base import command, hook
 
-from .utils import log
+from .LeafysMayhem.utils import log
 
 ALL_TIERS = ("Common", "Uncommon", "Rare", "VeryRare", "Legendary")
 
